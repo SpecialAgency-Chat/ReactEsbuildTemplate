@@ -26,7 +26,3 @@ html,
 body {
   @apply h-full m-0;
 }
-
-.settings > button {
-  @apply w-8 h-8 grid place-items-center hover:bg-[#f8f8f850] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-indigo-500 rounded;
-}
